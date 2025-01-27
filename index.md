@@ -4,6 +4,10 @@
 
 
 ### [실전프로젝트1] 당신이 UN 사무국의 세계행복보고서 담당자라면? <img src="images/project1.png"/>
+
+<a href="https://github.com/citydataviz/FastCampus/blob/main/Part4/Project1/Chapter3-1(EDA%26Descriptive_statistics).ipynb" target="_blank">
+    <img src="images/project1.png" alt="프로젝트1 설명" />
+</a>
 ---
 ### [실전프로젝트2] 세대간 갈등이 우리 조직에 문제가 됩니까? <img src="images/project2.png"/>
 ---
